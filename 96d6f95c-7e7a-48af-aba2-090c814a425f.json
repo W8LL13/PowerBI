@@ -1,11 +1,5 @@
 {
 	"type" : "FeatureCollection",
-	"name" : "GRS_1000_PROV_NL_V",
-	"crs" : {
-		"type" : "name",
-		"properties" : {
-			"name" : "EPSG:28992"
-		}
 	},
 	"features" : [
 		{
